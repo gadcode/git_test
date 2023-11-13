@@ -5,6 +5,7 @@ This is an opportunity to learn more about Git. Basically, knowing more about th
 ## Core Commands Learned
 
 - touch
+- mv
 - git clone
 - git add
 - git commit -m "message"
