@@ -16,3 +16,11 @@ This is an opportunity to learn more about Git. Basically, knowing more about th
 - git status
 - git log
 - git push
+
+## More Skills to Be Gained
+
+- Basic HTML
+- Basic CSS
+- Basic JavaScript
+- Accessibility
+- Mobile-first Responsive Design
