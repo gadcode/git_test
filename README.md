@@ -17,6 +17,8 @@ This is an opportunity to learn more about Git. Basically, knowing more about th
 - git log
 - git push
 
+--------------
+
 ## More Skills to Be Gained
 
 - Basic HTML
